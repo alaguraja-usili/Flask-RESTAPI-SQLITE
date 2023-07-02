@@ -2,6 +2,8 @@
 Flask-RESTAPI-SQLITE
 
 
+Inside Visual Sudio    install below
+
 pipenv shell
 
 view --> Command Pallate --> Python select interpretor --> Select virual environnment
