@@ -18,6 +18,7 @@ inside virtual environment ---> install below software
 
 Open the python terminal in your project directory and manually add a context
 
-from project_name import app, db
-app.app_context().push()
-db.create_all()
+>>> from main import app, db
+>>> app.app_context().push()
+>>> db.create_all()
+>>> quit()
